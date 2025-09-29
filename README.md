@@ -7,4 +7,6 @@
 
 
 <hr>
-<p>**Realizado por Antonio España**</p>
+<br></br>
+
+**Realizado por Antonio España**
