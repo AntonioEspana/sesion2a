@@ -1,4 +1,4 @@
-# Calidad Práctica 2
+# Calidad Práctica 2A
 
 *Tutorial básico de JUnit5 en Eclipse*
 
